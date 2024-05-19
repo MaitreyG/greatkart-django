@@ -155,3 +155,7 @@ EMAIL_PORT =587
 EMAIL_HOST_USER='ministermags771@gmail.com'
 EMAIL_HOST_PASSWORD='fumikdgdqagfvhmg'
 EMAIL_USE_TLS= True
+
+
+RAZORPAY_API_KEY_ID = "rzp_test_71Ozpq50g7YHxB"
+RAZORPAY_API_KEY_SECRET = "bIqhSQ5VZm1e0h7tCBckcKBC"
